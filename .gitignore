@@ -1,0 +1,6 @@
+# certificate info
+Package Control.system-ca-bundle
+
+# temp files
+*.cache
+*.last-run
