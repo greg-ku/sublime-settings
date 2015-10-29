@@ -7,4 +7,8 @@ sync sublime text setting from different machines
 - Package Control
 - Better CoffeeScript
 - EasyMotion
+- Git
 - Syntax Highlighting for Sass
+- LiveScript
+- CursorRuler
+- GotoTab

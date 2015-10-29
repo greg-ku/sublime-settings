@@ -1,8 +1,17 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"CursorRuler",
 		"EasyMotion",
+		"Git",
+		"GotoTab",
+		"LiveScript",
+		"Package Control",
 		"Syntax Highlighting for Sass"
 	]
 }
